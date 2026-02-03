@@ -1,5 +1,5 @@
 // ---------- TYPEWRITER EFFECT ----------
-const text = "Hi, cutie! 💖";
+const text = "Will you be my valentine's? 💖";
 let index = 0;
 
 function typeWriter() {
